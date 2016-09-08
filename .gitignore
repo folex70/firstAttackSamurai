@@ -1,0 +1,6 @@
+*.log
+*.info
+firstAttackSamurai/Library/
+firstAttackSamurai/Temp/
+Library/
+Temp/

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 7b7367eca3e7f90468a95643d8bfd6c8
+timeCreated: 1473301480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firt time attack samurai_0
+    21300002: firt time attack samurai_1
+    21300004: firt time attack samurai_2
+    21300006: firt time attack samurai_3
+    21300008: firt time attack samurai_4
+    21300010: firt time attack samurai_5
+    21300012: firt time attack samurai_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firt time attack samurai_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1280
+        width: 150
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -221}
+        - {x: 75, y: 9}
+        - {x: 74, y: 14}
+        - {x: 75, y: 19}
+        - {x: 75, y: 245}
+        - {x: 57, y: 320}
+        - {x: 3, y: 320}
+        - {x: -17, y: 255}
+        - {x: -75, y: 123}
+        - {x: -75, y: 95}
+        - {x: -6, y: -2}
+        - {x: -75, y: -212}
+        - {x: -75, y: -220}
+        - {x: -19, y: -320}
+        - {x: 67, y: -320}
+        - {x: 67, y: -310}
+        - {x: 65, y: -308}
+        - {x: 59, y: -299}
+    - name: firt time attack samurai_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1280
+        width: 130
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -160}
+        - {x: 65, y: 160}
+        - {x: 5, y: 160}
+        - {x: -37, y: 60}
+        - {x: -65, y: -83}
+        - {x: -65, y: -126}
+        - {x: -38, y: -160}
+        - {x: 7, y: -160}
+        - {x: 9, y: -149}
+        - {x: 17, y: -110}
+        - {x: 23, y: -160}
+    - name: firt time attack samurai_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1280
+        width: 140
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 165}
+        - {x: -21, y: 165}
+        - {x: -46, y: 120}
+        - {x: -70, y: -39}
+        - {x: -70, y: -64}
+        - {x: -25, y: -165}
+        - {x: 70, y: -165}
+        - {x: 70, y: 160}
+        - {x: 42, y: 159}
+    - name: firt time attack samurai_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 150
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -31}
+        - {x: 75, y: 12}
+        - {x: 60, y: 137}
+        - {x: 48, y: 152}
+        - {x: 42, y: 155}
+        - {x: -35, y: 155}
+        - {x: -75, y: 66}
+        - {x: -75, y: -117}
+        - {x: -36, y: -155}
+        - {x: 67, y: -155}
+        - {x: 67, y: -145}
+        - {x: 65, y: -143}
+        - {x: 59, y: -134}
+    - name: firt time attack samurai_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 640
+        width: 140
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 165}
+        - {x: -21, y: 165}
+        - {x: -46, y: 120}
+        - {x: -70, y: -39}
+        - {x: -70, y: -64}
+        - {x: -25, y: -165}
+        - {x: 70, y: -165}
+        - {x: 70, y: 160}
+        - {x: 42, y: 159}
+    - name: firt time attack samurai_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 150
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -31}
+        - {x: 75, y: 12}
+        - {x: 60, y: 137}
+        - {x: 48, y: 152}
+        - {x: 42, y: 155}
+        - {x: -35, y: 155}
+        - {x: -75, y: 66}
+        - {x: -75, y: -117}
+        - {x: -36, y: -155}
+        - {x: 67, y: -155}
+        - {x: 67, y: -145}
+        - {x: 65, y: -143}
+        - {x: 59, y: -134}
+    - name: firt time attack samurai_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 140
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 165}
+        - {x: -21, y: 165}
+        - {x: -46, y: 120}
+        - {x: -70, y: -39}
+        - {x: -70, y: -64}
+        - {x: -25, y: -165}
+        - {x: 70, y: -165}
+        - {x: 70, y: 160}
+        - {x: 42, y: 159}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
