@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: da84ce42aa6838845be0bfda783d8f44
+timeCreated: 1498678543
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firt time attack samurai clone_0
+    21300002: firt time attack samurai clone_1
+    21300004: firt time attack samurai clone_2
+    21300006: firt time attack samurai clone_3
+    21300008: firt time attack samurai clone_4
+    21300010: firt time attack samurai clone_5
+    21300012: firt time attack samurai clone_6
+    21300014: firt time attack samurai clone_7
+    21300016: firt time attack samurai clone_8
+    21300018: firt time attack samurai clone_9
+    21300020: firt time attack samurai clone_10
+    21300022: firt time attack samurai clone_11
+    21300024: firt time attack samurai clone_12
+    21300026: firt time attack samurai clone_13
+    21300028: firt time attack samurai clone_14
+    21300030: firt time attack samurai clone_15
+    21300032: firt time attack samurai clone_16
+    21300034: firt time attack samurai clone_17
+    21300036: firt time attack samurai clone_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firt time attack samurai clone_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1919
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_1
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1919
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_2
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1919
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_3
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1919
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1279
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1279
+        width: 162
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1279
+        width: 212
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1279
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1279
+        width: 162
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_9
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1279
+        width: 192
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1279
+        width: 292
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_11
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1279
+        width: 292
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_12
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1279
+        width: 502
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 639
+        width: 262
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 639
+        width: 352
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_15
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 639
+        width: 482
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_16
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 639
+        width: 192
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 312
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firt time attack samurai clone_18
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 312
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
