@@ -60,11 +60,11 @@ public class Game : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-		#if UNITY_EDITOR_WIN
-			inputPC();
-		#endif
+		//UNITY_EDITOR_WIN
+		#if UNITY_ANDROID 
 			inputMobile();
+		#endif
+			inputPC();
 		
 		//Level count
 		uiLevel.text="Level "+enemyLevel;		
@@ -274,7 +274,12 @@ public class Game : MonoBehaviour {
 		Debug.Log("game over!");
 		yield return new WaitForSeconds(val);
 		//Scene scene = SceneManager.GetActiveScene(); 
-		//SceneManager.LoadScene(scene.name);		
+		//SceneManager.LoadScene(scene.name);	
+		if(Data.bestLevel < enemyLevel){
+			Data.bestLevel = enemyLevel;
+		}
+		Data.bestEnemy = enemyTime;
+		Data.myTime = playerTime;
 		SceneManager.LoadScene("Scene0");  
 	}
 		
@@ -283,6 +288,11 @@ public class Game : MonoBehaviour {
 		//prepare game for new level
         print(Time.time);
         yield return new WaitForSeconds(val);
+		if(result != "FOUL"){
+			if(playerTime < Data.bestTime && playerTime > 0){
+				Data.bestTime = playerTime;
+			}	
+		}	
 		Debug.Log("level up");
 		Destroy(GameObject.Find("Enemy"));
 		Destroy(GameObject.Find("Enemy(Clone)"));
@@ -301,4 +311,5 @@ public class Game : MonoBehaviour {
 		player.transform.position = new Vector3(-6, 0, 0);
         print(Time.time);
     }	
+		
 }
